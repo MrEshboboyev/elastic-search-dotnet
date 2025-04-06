@@ -1,0 +1,9 @@
+﻿<Project>
+  <PropertyGroup>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageVersion Include="Elastic.Clients.Elasticsearch" Version="8.17.3" />
+    <PackageVersion Include="Swashbuckle.AspNetCore" Version="8.1.0" />
+  </ItemGroup>
+</Project>
